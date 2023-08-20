@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lordneogen</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Unity,Golang**
+- 🌱 I’m currently learning **Unity,Golang,Redis,Celery**
 
 - 💬 Ask me about **Python,React,Next.js**
 
